@@ -16,7 +16,7 @@ Jest ve React Native Testing Library kullanılarak yazılmıştır.
 ## Kurulum
 
 ```bash
-git clone <repo-url>
+git clone "https://github.com/djsablab/metin-ters-cevirici/"
 cd text-reversal-app
 npm install
 npm start
