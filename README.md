@@ -21,9 +21,3 @@ cd text-reversal-app
 npm install
 npm start
 ```
-# metin-ters-cevirici
-# metin-ters-cevirici
-# metin-ters-cevirici
-# metin-ters-cevirici
-# metin-ters-cevirici
-# metin-ters-cevirici
